@@ -1,0 +1,92 @@
+h1 {
+    font-size: 50px;
+    color: lightpink;
+}
+.class1 {
+    color: red;
+}
+.class2 {
+    color: #FFA500;
+    font-size: 24px;
+}
+.class3 {
+    font-size: 30px;
+}
+.container {
+    font-size: 30px;
+    color:white;
+    background-color:#0066FF;
+    border: 5px solid #003399;
+    width: 150px;    
+    height: 35px;
+    /*padding: 10px;
+    margin: 10px;*/
+    text-align: center;
+    display: inline-block;
+}
+.absolute {
+    border-radius: 5px;
+    border: 5px solid #003399;
+    background-color:#006699;
+    position: absolute;
+    font-size: 50px;
+    width: 250px;
+    height: 65px;
+    color :white;
+    left: 40%;
+    top: 0px;
+}
+.normal {
+    font-size: 30px;
+    color:white;
+    border: 5px solid #003399;
+    width: 150px;
+    background-color:#0066FF;    
+    height: 35px;
+    /*padding: 10px;
+    margin: 10px;*/
+    text-align: center;
+    display: inline-block;
+}
+.another {
+    font-size: 30px;
+    color:white;
+    background-color:#787878;
+    border: 5px solid #003399;
+    width: 150px;    
+    height: 35px;
+    /*padding: 10px;
+    margin: 10px;*/
+    text-align: center;
+    display: inline-block;
+}
+.birthday {
+    font-size: 30px;
+    color:white;
+    background-color:#009933;
+    border: 5px solid #003399;
+    width: 150px;    
+    height: 35px;
+    /*padding: 10px;
+    margin: 10px;*/
+    text-align: center;
+    display: inline-block;
+}
+.freeday {
+    font-size: 30px;
+    color:white;
+    background-color:#A00000;
+    border: 5px solid #003399;
+    width: 150px;    
+    height: 35px;
+    /*padding: 10px;
+    margin: 10px;*/
+    text-align: center;
+    display: inline-block;
+}
+.credit {
+    bottom: 0px;
+    font-size: 20px;
+    left: 50%;
+    color: blue;
+}
